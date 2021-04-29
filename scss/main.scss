@@ -1,0 +1,8 @@
+$color--blue: blue;
+
+body {
+  background-color: $color--blue;
+  h1 {
+    display: flex;
+  }
+}
